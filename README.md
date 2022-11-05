@@ -18,7 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sourjadip-pramanik-77aab6208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourjadip-pramanik-77aab6208" height="30" width="40" /></a><a href="https://www.blogger.com/profile/12775251332035800438" target="blank"><img align="center" src="https://raw.githubusercontent.com/Sourja99/Sourja99/main/Screenshot-from-2022-11-05-18-08-16-ConvertImage.ico" alt="sourjadip-pramanik-77aab6208" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sourjadip-pramanik-77aab6208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourjadip-pramanik-77aab6208" height="30" width="40" /></a>
+<a href="https://www.blogger.com/profile/12775251332035800438" target="blank"><img align="center" src="https://github.com/Sourja99/Sourja99/blob/a5d9d51242381f361bcce7a7b31b8fbd7701fb55/png-clipart-simply-styled-icon-set-731-icons-free-google-blogger-blogger-icon-thumbnail.png" alt="sourjadip-pramanik-77aab6208" height="30" width="40" /></a>
 <a href="https://kaggle.com/sourjadippramanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sourjadip pramanik" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sourjadip_prama1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sourjadip_prama1" height="30" width="40" /></a>
 </p>
