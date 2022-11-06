@@ -31,7 +31,10 @@
 
 [![@sourjadip11's Holopin board](https://holopin.me/sourjadip11)](https://holopin.io/@sourjadip11)
 
-<a href="https://www.credly.com/badges/8fe43f4a-83b4-4dac-a9e0-5d9cb6ae2f3e/public_url" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png" alt="sourjadip-pramanik-77aab6208" height="90" width="90" /></a>
+<a href="https://www.credly.com/badges/8fe43f4a-83b4-4dac-a9e0-5d9cb6ae2f3e/public_url" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png" alt="sourjadip-pramanik-77aab6208" height="130" width="130" /></a>
+<a href="https://www.credly.com/badges/4bb3326f-f71b-449a-bfd0-83b9535626e2/public_url" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png" alt="sourjadip-pramanik-77aab6208" height="130" width="130" /></a>
+<a href="https://www.credly.com/badges/796d939d-f535-4a52-a5b7-29ff85ffb458/public_url" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" alt="sourjadip-pramanik-77aab6208" height="130" width="130" /></a>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourja99&show_icons=true&locale=en&layout=compact" alt="sourja99" /></p>
 
